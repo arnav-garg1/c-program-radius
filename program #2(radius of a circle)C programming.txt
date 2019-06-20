@@ -1,0 +1,13 @@
+{
+
+	float lenght,width,area;
+
+	printf("lenght = ? ");
+	scanf_s("%f", &lenght);
+	printf("width = ? ");	
+	scanf_s("%f", &width);
+	area = lenght*width;
+	printf("Area = %f", area);
+	scanf_s("%f", &lenght);
+
+}
